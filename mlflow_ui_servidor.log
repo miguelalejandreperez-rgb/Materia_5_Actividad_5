@@ -1,0 +1,25 @@
+Registry store URI not provided. Using backend store URI.
+[MLflow] Security middleware enabled. Allowed hosts: localhost:*, 127.0.0.1:*, *.googleusercontent.com. CORS origins: https://*.googleusercontent.com, https://colab.research.google.com.
+2026/10/26 06:11:23 WARNING mlflow.server: MLflow job execution requirements not met (MLflow job backend requires a database backend store URI but got file:///content/Actividad5/mlruns). Server will start without job execution support. Errors will be surfaced at job invocation time.
+2026/10/26 06:11:24 INFO:     Uvicorn running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2026/10/26 06:11:24 INFO:     Started parent process [2991]
+/usr/local/lib/python3.13/dist-packages/mlflow/server/fastapi_app.py:23: StarletteDeprecationWarning: starlette.middleware.wsgi is deprecated and will be removed in a future release. Please refer to https://github.com/abersheeran/a2wsgi as a replacement.
+  from starlette.middleware.wsgi import WSGIResponder, build_environ
+/usr/local/lib/python3.13/dist-packages/mlflow/server/fastapi_app.py:23: StarletteDeprecationWarning: starlette.middleware.wsgi is deprecated and will be removed in a future release. Please refer to https://github.com/abersheeran/a2wsgi as a replacement.
+  from starlette.middleware.wsgi import WSGIResponder, build_environ
+/usr/local/lib/python3.13/dist-packages/mlflow/server/fastapi_app.py:23: StarletteDeprecationWarning: starlette.middleware.wsgi is deprecated and will be removed in a future release. Please refer to https://github.com/abersheeran/a2wsgi as a replacement.
+  from starlette.middleware.wsgi import WSGIResponder, build_environ
+/usr/local/lib/python3.13/dist-packages/mlflow/server/fastapi_app.py:23: StarletteDeprecationWarning: starlette.middleware.wsgi is deprecated and will be removed in a future release. Please refer to https://github.com/abersheeran/a2wsgi as a replacement.
+  from starlette.middleware.wsgi import WSGIResponder, build_environ
+2026/10/26 06:11:36 INFO:     Started server process [2993]
+2026/10/26 06:11:36 INFO:     Waiting for application startup.
+2026/10/26 06:11:36 INFO:     Application startup complete.
+2026/10/26 06:11:36 INFO:     Started server process [2996]
+2026/10/26 06:11:36 INFO:     Started server process [2995]
+2026/10/26 06:11:36 INFO:     Waiting for application startup.
+2026/10/26 06:11:36 INFO:     Waiting for application startup.
+2026/10/26 06:11:36 INFO:     Application startup complete.
+2026/10/26 06:11:36 INFO:     Application startup complete.
+2026/10/26 06:11:36 INFO:     Started server process [2994]
+2026/10/26 06:11:36 INFO:     Waiting for application startup.
+2026/10/26 06:11:36 INFO:     Application startup complete.
